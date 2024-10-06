@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arnavkumar2k5
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development & DSA
 - 💞️ I’m looking to collaborate on front-end projects and web apps
 - 📫 Reach me Linkdin: https://www.linkedin.com/in/arnav-kumar-55a0a6276
 - 😄 Pronouns: He/Him
